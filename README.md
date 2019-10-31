@@ -1,2 +1,0 @@
-# FloatingDiamonds
-Created with CodeSandbox
